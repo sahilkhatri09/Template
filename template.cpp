@@ -24,7 +24,7 @@ using namespace std;
 int dir[8][2] = {{+1, +0}, {-1, +0}, {+0, +1}, {+0, -1}, {-1, -1}, {+1, +1}, {+1, -1}, {-1, +1}};
 
 void solve(){
-
+cout<<"TAKE TIME AND READ QUESTION CAREFULLY";
       
 }
 int32_t main(){
